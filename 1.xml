@@ -1,0 +1,58 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página de Inicio">
+    <mxGraphModel dx="1266" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="Inicio - Sistema de Gestión de Hoteles" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="20" width="770" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="Agregar Nuevo Hotel" style="shape=rect;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="Lista de Hoteles:" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="30" y="110" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="" style="table;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="150" width="760" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="Nombre del Hotel" style="tableColumn;whiteSpace=wrap;html=1;" vertex="1" parent="5">
+          <mxGeometry width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="Ubicación" style="tableColumn;whiteSpace=wrap;html=1;" vertex="1" parent="5">
+          <mxGeometry x="250" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="Acciones" style="tableColumn;whiteSpace=wrap;html=1;" vertex="1" parent="5">
+          <mxGeometry x="500" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="Hotel A" style="tableRow;whiteSpace=wrap;html=1;" vertex="1" parent="5">
+          <mxGeometry y="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="Ciudad X" style="tableCell;whiteSpace=wrap;html=1;" vertex="1" parent="9">
+          <mxGeometry width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="Editar Eliminar" style="tableCell;whiteSpace=wrap;html=1;" vertex="1" parent="9">
+          <mxGeometry x="500" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="12" value="Hotel B" style="tableRow;whiteSpace=wrap;html=1;" vertex="1" parent="5">
+          <mxGeometry y="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="13" value="Ciudad Y" style="tableCell;whiteSpace=wrap;html=1;" vertex="1" parent="12">
+          <mxGeometry width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="14" value="Editar Eliminar" style="tableCell;whiteSpace=wrap;html=1;" vertex="1" parent="12">
+          <mxGeometry x="500" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="15" value="Hotel C" style="tableRow;whiteSpace=wrap;html=1;" vertex="1" parent="5">
+          <mxGeometry y="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="16" value="Ciudad Z" style="tableCell;whiteSpace=wrap;html=1;" vertex="1" parent="15">
+          <mxGeometry width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="17" value="Editar Eliminar" style="tableCell;whiteSpace=wrap;html=1;" vertex="1" parent="15">
+          <mxGeometry x="500" width="260" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
